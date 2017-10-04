@@ -10,19 +10,19 @@ Simple-Multithreaded-TCP-Chat is licensed under MIT License
 
 Features of 1.0
 ---------------
-   Server
-      -You can send messages to all clients.
-      -You can send messages to a specific client by selecting the clients name in the client list.
-      -You can clear the chat box by right click in the chat box.
-      -You can see all connected client in the client list on the side.
-      -You can add to managed clients, kick and ban clients for the client list by right click in the client list.
-      -Clients that are added to to managed clients and band are saved in an XML and are used in client manager.
-      -You can add, edit and delete clients data in client manager which is name, ip address, band, reason.
+#### Server:
+	*You can send messages to all clients.
+	*You can send messages to a specific client by selecting the clients name in the client list.
+	*You can clear the chat box by right click in the chat box.
+	*You can see all connected client in the client list on the side.
+	*You can add to managed clients, kick and ban clients for the client list by right click in the client list.
+	*Clients that are added to to managed clients and band are saved in an XML and are used in client manager.
+	*You can add, edit and delete clients data in client manager which is name, ip address, band, reason.
 
-   Client
-      -You can send messages to all clients.
-      -You can send messages to a specific client by selecting the clients name in the client list.
-      -You can clear the chat box by right click in the chat box.
-      -You can see all connected client in the client list on the side.
+#### Client:
+	*You can send messages to all clients.
+	*You can send messages to a specific client by selecting the clients name in the client list.
+	*You can clear the chat box by right click in the chat box.
+	*You can see all connected client in the client list on the side.
 
 ![alt text](https://raw.githubusercontent.com/Pontus-Skoglund/Simple-Multithreaded-TCP-GUI-Chat/master/Screenshot.PNG)
