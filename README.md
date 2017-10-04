@@ -10,7 +10,7 @@ Simple-Multithreaded-TCP-Chat is licensed under MIT License
 
 Features of 1.0
 ---------------
-#### Server:
+#### Server
 	*You can send messages to all clients.
 	*You can send messages to a specific client by selecting the clients name in the client list.
 	*You can clear the chat box by right click in the chat box.
@@ -19,7 +19,7 @@ Features of 1.0
 	*Clients that are added to to managed clients and band are saved in an XML and are used in client manager.
 	*You can add, edit and delete clients data in client manager which is name, ip address, band, reason.
 
-#### Client:
+#### Client
 	*You can send messages to all clients.
 	*You can send messages to a specific client by selecting the clients name in the client list.
 	*You can clear the chat box by right click in the chat box.
